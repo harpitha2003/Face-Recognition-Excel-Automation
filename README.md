@@ -1,4 +1,8 @@
-he system uses the face_recognition library for detecting and recognizing faces from live video feed, and openpyxl to handle the Excel file operations for attendance management.
+Project Title:
+Face Recognition with Excel-Driven Automation
+
+Description:
+This project implements a real-time face recognition system that automatically tracks attendance by recognizing faces and storing the data in an Excel spreadsheet. The system uses the face_recognition library for detecting and recognizing faces from live video feed, and openpyxl to handle the Excel file operations for attendance management.
 
 Features:
 Face Recognition: Identifies faces from a video stream and compares them with pre-stored known faces.
